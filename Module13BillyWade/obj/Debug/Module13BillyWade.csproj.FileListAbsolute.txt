@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\Module13BillyWade\Module13BillyWade\bin\Debug\Module13BillyWade.exe.config
+C:\Users\Student\source\repos\Module13BillyWade\Module13BillyWade\bin\Debug\Module13BillyWade.exe
+C:\Users\Student\source\repos\Module13BillyWade\Module13BillyWade\bin\Debug\Module13BillyWade.pdb
+C:\Users\Student\source\repos\Module13BillyWade\Module13BillyWade\obj\Debug\Module13BillyWade.csprojResolveAssemblyReference.cache
+C:\Users\Student\source\repos\Module13BillyWade\Module13BillyWade\obj\Debug\Module13BillyWade.Form1.resources
+C:\Users\Student\source\repos\Module13BillyWade\Module13BillyWade\obj\Debug\Module13BillyWade.Properties.Resources.resources
+C:\Users\Student\source\repos\Module13BillyWade\Module13BillyWade\obj\Debug\Module13BillyWade.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Module13BillyWade\Module13BillyWade\obj\Debug\Module13BillyWade.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Module13BillyWade\Module13BillyWade\obj\Debug\Module13BillyWade.exe
+C:\Users\Student\source\repos\Module13BillyWade\Module13BillyWade\obj\Debug\Module13BillyWade.pdb
