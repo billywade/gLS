@@ -1,0 +1,4 @@
+* gLS
+Graphical application for Windows to recursively list all files in a given directory.
+
+I wrote this for my Enterprise Framework Programming course. This project gave us more freedom than we usually granted, so I feel more ownership over this project than others in the course.
